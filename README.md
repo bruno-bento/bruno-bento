@@ -1,5 +1,5 @@
 ## Bruno Bento 👾
-FullStack developer do Grupo DETK. 
+Desenvolvedor FullStack do Grupo DETK. 
 
 ### Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:brunobentoreinoso14@gmail.com)
