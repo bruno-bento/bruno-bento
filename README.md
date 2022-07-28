@@ -26,3 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-bento&theme=dark" alt="bruno-bento" /></p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
