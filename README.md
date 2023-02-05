@@ -29,7 +29,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   2 mins          █████████████▒░░░░░░░░░░░   53.21 %
+ASP.NET   1 hr 9 mins     ███████████████████████░░   92.59 %
+Other     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
