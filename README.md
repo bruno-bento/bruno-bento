@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-ASP.NET   1 hr 16 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
