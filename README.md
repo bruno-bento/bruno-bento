@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em **VueJs, GraphQL, NuxtJs, Go, Responsive Desgin**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/bruno-bento/website-portifolio](https://github.com/bruno-bento/website-portifolio)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/bruno-bento/website-portifolio](https://bruno-bento.com)
 
 - 📫 Entre em contato **brunobentoreinoso14@gmail.com**
 
