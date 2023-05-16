@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Bruno</h1>
 <h3 align="center">Desenvolvedor FullStack</h3>
 
-- 🔭 Estou desenvolvendo [Meu portifólio](https://github.com/bruno-bento/website-portifolio)
+- 🔭 Estou desenvolvendo [Meu portifólio](https://bruno-bento.com)
 
 - 🌱 Atualmente estou me aperfeiçoando em **VueJs, GraphQL, NuxtJs, Go, Responsive Desgin**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/bruno-bento/website-portifolio](https://bruno-bento.com)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://bruno-bento.com](https://bruno-bento.com)
 
 - 📫 Entre em contato **brunobentoreinoso14@gmail.com**
 
