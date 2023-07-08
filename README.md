@@ -21,11 +21,3 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-bento&show_icons=true&theme=dark&locale=en" alt="bruno-bento" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-bento&theme=dark" alt="bruno-bento" /></p>-->
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
